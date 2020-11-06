@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkp362N0dWOk2w6xBeZ/lAxHuzYFZ51nHrHGI3/s5YJpvxljDp9ynAaQP8vAn3c5S9Wxqsma2gcZz9E0Z+k/0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAMILIA\\source\\repos\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAMILIA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

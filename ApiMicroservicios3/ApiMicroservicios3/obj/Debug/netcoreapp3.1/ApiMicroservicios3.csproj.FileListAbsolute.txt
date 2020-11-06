@@ -1,0 +1,9 @@
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\ApiMicroservicios3.csprojAssemblyReference.cache
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\ApiMicroservicios3.AssemblyInfoInputs.cache
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\ApiMicroservicios3.AssemblyInfo.cs
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\ApiMicroservicios3.RazorTargetAssemblyInfo.cache
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\staticwebassets\ApiMicroservicios3.StaticWebAssets.Manifest.cache
+C:\Users\FAMILIA\source\repos\ApiMicroservicios3\ApiMicroservicios3\obj\Debug\netcoreapp3.1\staticwebassets\ApiMicroservicios3.StaticWebAssets.xml
