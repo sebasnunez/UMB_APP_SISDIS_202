@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj": {}
+    "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\MethodParameters\\MethodParameters.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj": {
+    "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\MethodParameters\\MethodParameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
-        "projectName": "ApiMicroservicios3",
-        "projectPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\MethodParameters\\MethodParameters.csproj",
+        "projectName": "MethodParameters",
+        "projectPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\MethodParameters\\MethodParameters.csproj",
         "packagesPath": "C:\\Users\\USER CLICK\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\obj\\",
+        "outputPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\MethodParameters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER CLICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -36,11 +36,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.10.9, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -53,14 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }

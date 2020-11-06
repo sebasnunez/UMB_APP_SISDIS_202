@@ -83,25 +83,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FAMILIA\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\USER CLICK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FAMILIA\\source\\repos\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
+      "projectUniqueName": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
       "projectName": "ApiMicroservicios3",
-      "projectPath": "C:\\Users\\FAMILIA\\source\\repos\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
-      "packagesPath": "C:\\Users\\FAMILIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FAMILIA\\source\\repos\\ApiMicroservicios3\\ApiMicroservicios3\\obj\\",
+      "projectPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\ApiMicroservicios3.csproj",
+      "packagesPath": "C:\\Users\\USER CLICK\\.nuget\\packages\\",
+      "outputPath": "D:\\UNIVERSIDAD\\PROYECTO_DIS\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\ApiMicroservicios3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\FAMILIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\USER CLICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -147,7 +142,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
