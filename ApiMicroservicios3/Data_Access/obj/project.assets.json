@@ -50,7 +50,6 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -186,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Entities\\Entities.csproj",
-      "projectName": "Entities",
-      "projectPath": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Data_Access\\Data_Access.csproj",
+      "projectName": "Data_Access",
+      "projectPath": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Data_Access\\Data_Access.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Entities\\obj\\",
+      "outputPath": "D:\\distribuidos\\UMB_APP_SISDIS_202\\ApiMicroservicios3\\Data_Access\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
