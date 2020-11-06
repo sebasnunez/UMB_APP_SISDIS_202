@@ -1,9 +1,11 @@
 # UMB_APP_SISDIS_202
-Desarrollo de una app distribuida por medio de microservicios en apache kafka
+Desarrollo de una app distribuida por medio de microservicios en apache Kafka
+
 
 ## Integrantes
-* Jose Buelvas
-* Alessandro Nuñez
+- Jose Buelvas.
+- Alessandro Nuñez.
+
 
 ## Funcionalidades
 1. El servicio usará las compras recientes del usuario para revisar las categorías de producto.
@@ -12,5 +14,5 @@ Desarrollo de una app distribuida por medio de microservicios en apache kafka
     * userID: {opcional} El id del usuario del cual se necesita el historial de usuario.
     * limit: el número de recomendaciones que se necesitan.
     * productID: {opcional} Con el id de producto se harán reocmnedaciones con respecto a las categorías de productos del mismo.
-4. Si no se ingresa el id del usuario o el id de algún producto entonces el servicio devolverá los productos más populares (en caso de que haya popularidad).
+4. Si no se ingresa el id del usuario o el id de algún producto entonces el servicio devolverá los productos más populares (con la condicion de que haya popularidad).
 5. Caso contrario entonces se mostrará productos al azar.
