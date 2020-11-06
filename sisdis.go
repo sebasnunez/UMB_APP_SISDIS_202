@@ -1,5 +1,10 @@
 package main
 
+import (
+	"github.com/kataras/iris/v12"
+	"log"
+)
+
 /**
  * sisdis was developed by Jose Buelvas (ihojose)
  *
@@ -11,4 +16,14 @@ package main
  */
 func main() {
 
+	// Init Web Server
+	app := iris.New()
+
+	// Route APIs
+	// TODO: API
+
+	// Run Web Server
+	if err := app.Listen(":8080"); err != nil {
+		log.Panicln("Unexpected error in Recommendations API:", err)
+	}
 }
