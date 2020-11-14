@@ -5,6 +5,9 @@ Desarrollo de una app distribuida por medio de microservicios en apache kafka
 * Jose Buelvas
 * Alessandro Nuñez
 
+## Integrante 
+Juan Sebastian Nuñez Pinzon
+
 ## Funcionalidades
 1. El servicio usará las compras recientes del usuario para revisar las categorías de producto.
 2. Usando las categorías de los productos del historial de compras del usuario el servicio hará una búsqueda de productos en dicha categoría para recomendarlos.
