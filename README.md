@@ -5,7 +5,7 @@ Desarrollo de una app distribuida por medio de microservicios en apache kafka
 * Jose Buelvas
 * Alessandro Nuñez
 
-## Integrante 
+## Integrantes 
 Juan Sebastian Nuñez Pinzon
 
 ## Funcionalidades
